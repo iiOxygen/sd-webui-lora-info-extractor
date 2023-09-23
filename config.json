@@ -1,0 +1,6 @@
+{
+    "input_path": "Path/to/InFolder",
+    "output_path": "Path/to/OutFile/Output.txt",
+    "output_format": "txt",
+    "default_weight": 0.6 
+}
